@@ -3,7 +3,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/albinzr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/albinzr?tab=followers)
-[![GitHub following](https://img.shields.io/github/following/albinzr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/albinzr?tab=following)
+[![GitHub following](https://img.shields.io/github/following/albinzr.svg?style=social&label=Following&maxAge=2592000)](https://github.com/albinzr?tab=following)
 
 ### Skills 
 ![langs](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=orange)
