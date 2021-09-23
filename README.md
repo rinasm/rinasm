@@ -3,7 +3,6 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/albinzr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/albinzr?tab=followers)
-[![GitHub following](https://img.shields.io/github/following/albinzr.svg?style=social&label=Following&maxAge=2592000)](https://github.com/albinzr?tab=following)
 
 ### Skills 
 ![langs](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=orange)
@@ -38,7 +37,7 @@
 <p align="center">
 - <a href="https://twitter.com/albinzr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cuongstf" height="20" width="20" /></a>
 - <a href="https://linkedin.com/in//in/albinzr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/cuongcoder/" height="20" width="20" /></a>
-- <a href="https://stackoverflow.com/users/4595674/albi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/7297765/cường-mạnh-nguyễn" height="20" width="20" /></a>
+- <a href="https://stackoverflow.com/users/4595674/albi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/4595674/albi" height="20" width="20" /></a>
 - <a href="https://fb.com/albinzr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenmanhcuong.stf" height="20" width="20" /></a>
 - <a href="https://instagram.com/albin._.r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cuong_dev" height="20" width="20" /></a>
 - 
