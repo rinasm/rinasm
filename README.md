@@ -13,7 +13,7 @@
 
 
 ###  👨🏻‍💻 About Me 
-- 🔭 I’m currently working on **Intellicar Platform Product**
+- 🔭 I’m currently working on **Intellicar Platform Products**
 - 💬 Ask me about **App development**
 - 📫 How to reach me **albinzr@gmail.com**
 
