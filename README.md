@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albin CR, You can call me CR.</h1>
+<h1 align="center">Hi 👋, I'm Albin CR, You can call me Albi.</h1>
 <h3 align="center">A creative app developer from India :)</h3>
 
 
