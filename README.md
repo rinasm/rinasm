@@ -16,7 +16,7 @@
 
 
 ###  👨🏻‍💻 About Me 
-- 🔭 I’m currently working on **Intellicar Platform Products**
+- 🔭 I’m currently working on **Intellicar Platform **
 - 💬 Ask me about **App development**
 - 📫 How to reach me **albinzr@gmail.com**
 
